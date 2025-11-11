@@ -8,6 +8,9 @@ NotesApp is a full-stack MERN project for creating, editing, and managing person
 - Minimal, responsive design (single CSS file)
 - Built with React, Vite, Express, Node.js, and Mongoose
 - Basic server-side validation
+### UI 
+![Screenshot](./screenshot.png)
+
 
 ## Getting Started
 
